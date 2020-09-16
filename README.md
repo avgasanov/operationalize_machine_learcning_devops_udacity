@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/avgasanov/operationalize_machine_learcning_devops_udacity.svg?style=svg)]
 
 ## Project Overview
 
