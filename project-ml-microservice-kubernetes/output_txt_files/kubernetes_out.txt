@@ -1,7 +1,0 @@
-Abdullas-MacBook-Pro:project-ml-microservice-kubernetes avgasanov$ ./make_prediction.sh
-Port: 8000
-{
-  "prediction": [
-    20.35373177134412
-  ]
-}
